@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm **Anbhav**!
 
-- 🎓 2nd Year BCA Student | 💻 Frontend Dev | 🚀 Aspiring Software Engineer  
+- 🎓 Finalear BCA Student | 💻 Frontend Dev | 🚀 Aspiring Software Engineer  
 - 📚 Currently learning **DSA** and **Web Development**  
 - 🛠️ Building a Social Networking app like **Instagram**  
 - 🔥 Passionate about Software Dev and Tech Business  
