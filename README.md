@@ -1,13 +1,12 @@
 ### 👋 Hi there, I'm **Anbhav**!
 
-- 🎓 Final year BCA Student | 💻 Frontend Dev | 🚀 Aspiring Software Engineer  
-- 📚 Currently learning **DSA** and **Web Development**  
-- 🛠️ Building a Social Networking app like **Instagram**  
+- 🎓 Final year BCA Student | 💻 Full Stack (MERN) Dev | 🚀 Aspiring Software Engineer  
+- 📚 Currently learning **DSA** and **Dev Ops**  
 - 🔥 Passionate about Software Dev and Tech Business  
 
 ### 📲 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__anbhav/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/axl.sql/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spidey.4994@gmail.com)
 
 ---
