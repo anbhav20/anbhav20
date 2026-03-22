@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm **Anbhav**!
 
-- 🎓 Final year BCA Student | 💻 Full Stack (MERN) Dev | 🚀 Aspiring Software Engineer  
-- 📚 Currently learning **DSA** and **Dev Ops**  
-- 🔥 Passionate about Software Dev and Tech Business  
+- Full Stack (MERN) Dev | Final year BCA Student 
+- Currently learning **DSA** and **Dev Ops**  
+- Passionate about Software Dev and Tech Business  
 
 ### 📲 Connect with me
 
